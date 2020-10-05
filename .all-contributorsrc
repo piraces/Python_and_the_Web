@@ -470,6 +470,24 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "dhiganthrao",
+      "name": "Dhiganth Rao",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/53207198?v=4",
+      "profile": "http://dhiganthrao.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "adityagandhamal",
+      "name": "Aditya Gandhamal",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/61016383?v=4",
+      "profile": "https://github.com/adityagandhamal",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
